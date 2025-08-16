@@ -72,9 +72,3 @@ Smart-EVM/
 ## Documentation
 - [Project Presentation (PPT)](docs/Smart%20EVM.ppt)
 - [Project Report (PDF)](docs/Smart%20EVM%20Report.pdf)
-
-## Future Scope
-  -Integration with fingerprint and face biometrics for higher accuracy                                                                                            
-  -Blockchain-based vote storage for enhanced security                                                                                                
-  -Mobile and remote voting support for migrant workers                                                                                                              
-  -AI-powered fraud detection in real time                                                                                                                                                                        
