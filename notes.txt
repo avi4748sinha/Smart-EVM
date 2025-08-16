@@ -1,0 +1,10 @@
+# Notes for Smart EVM Project
+
+## Installation Commands:
+opencv-python ::  pip install opencv-python
+face_recognition ::  pip3 install face_recognition
+
+## Important:
+- Use Python 3.8+ for compatibility with dlib and face_recognition
+- Run main.py to start the Flask backend
+- Ensure MongoDB is running before starting the server
