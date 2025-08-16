@@ -1,6 +1,6 @@
 # Smart Electronic Voting Machine (Smart EVM)
 
-![Project Hardware](images/hardware-setup.jpg)
+   ![Project Hardware](images/hardware-setup.jpg)
 
 A Smart Electronic Voting Machine (EVM) prototype built using **ESP32-CAM / Raspberry Pi, Flask, MongoDB, and Face Recognition**.  
 This system ensures a secure, transparent, and tamper-proof voting process by using biometric voter authentication and encrypted vote storage.
@@ -74,7 +74,7 @@ Smart-EVM/
 - [Project Report (PDF)](docs/Smart%20EVM%20Report.pdf)
 
 ## Future Scope
-  -Integration with fingerprint and face biometrics for higher accuracy
-  -Blockchain-based vote storage for enhanced security
-  -Mobile and remote voting support for migrant workers
-  -AI-powered fraud detection in real time
+  -Integration with fingerprint and face biometrics for higher accuracy                                                                                            
+  -Blockchain-based vote storage for enhanced security                                                                                                
+  -Mobile and remote voting support for migrant workers                                                                                                              
+  -AI-powered fraud detection in real time                                                                                                                                                                        
